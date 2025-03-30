@@ -1,3 +1,4 @@
+Properties props = new Properties();
 public void fetch() throws SQLException, IOException
 } catch (IOException e) {
 props.load(fs);
