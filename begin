@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 Properties props = new Properties();
 public void fetch() throws SQLException, IOException
 } catch (IOException e) {
